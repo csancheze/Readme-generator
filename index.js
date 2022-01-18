@@ -76,7 +76,7 @@ function writeToFile(fileName, data) {
   fs.writeFileSync(`${fileName}.md`, generateMarkdown(data));
   //Function to write license file
   if(data.license) {
-    fs.writeFileSync(`${data.license}.txt`, generateLicense(data))
+    fs.writeFileSync(`${data.license}_license.txt`, generateLicense(data))
     }
   }
 

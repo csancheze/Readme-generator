@@ -7,19 +7,19 @@ function renderLicense(license,username,year) {
     case "MIT":
       badge = "https://img.shields.io/apm/l/vim-mode?style=plastic"
       licenseText = `Copyright (c) ${year}, ${username} All rights reserved.\nLicensed under the MIT license. `
-      licenseLink = "/MIT_license.txt"
+      licenseLink = "./MIT_license.txt"
     break;
 
     case "BSD":
       badge = "https://img.shields.io/pypi/l/Django"
       licenseText = `Copyright (c) ${year}, ${username} All rights reserved.\nLicensed under the BSD license. `
-      licenseLink = "/BSD_license.txt"
+      licenseLink = "./BSD_license.txt"
     break;
 
     case "Apache":
       badge = "https://img.shields.io/aur/license/android-studio"
       licenseText = `Copyright (c) ${year}, ${username} All rights reserved.\nLicensed under the Apache license. `
-      licenseLink = "/Apache_license.txt"
+      licenseLink = "./Apache_license.txt"
     break;
 
     default:
@@ -96,7 +96,7 @@ function generateMarkdown(data) {
   If you have any question feel free to check my Github
   \n[Github](${data.github})\n
   or send me and email
-  \n[Email](${data.email})\n
+  \n<${data.email}>\n
 `;
 }
 

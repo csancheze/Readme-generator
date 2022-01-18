@@ -5,7 +5,7 @@
   ## Description
   
   
-This is a simple Readme generator for node.js that uses the inquirer package.
+This is a Readme generator for node.js using inquirer
 
   
   ## Table of Contents
@@ -21,13 +21,13 @@ This is a simple Readme generator for node.js that uses the inquirer package.
   ## Installation
   
   
-- Download files - Install node packages - Run node index.js on command line
+- Download files - Be sure to have the packages install - Run
 
   
   ## Usage
   
   
-Enter the information asked to automatically generate a Readme
+Enter node index.js on the command line in the folder where files are downloaded and answer the questions
 
   
   
@@ -41,19 +41,19 @@ Licensed under the BSD license.
 
   
   
-[License](/BSD_license.txt)
+[License](./BSD_license.txt)
 
   
   ## How to Contribute
   
   
-Modifying the generateMarkdown.js function to add sections or style to the Readme
+Modify the generateMarkdown.js to add sections or style to the Readme
 
   
   ## Tests
   
   
-For testing just follow the Installation Instructions
+For testing just follow the Installation Instructions and Usage Information
 
   
   ## Questions
@@ -64,5 +64,5 @@ For testing just follow the Installation Instructions
 
   or send me and email
   
-[Email](cesanchezesc@gmail.com)
+<cesanchezesc@gmail.com>
 
