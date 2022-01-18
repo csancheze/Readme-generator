@@ -49,10 +49,8 @@ function generateMarkdown(data) {
   let licenseSection = licenseInfo[1]
   let licenseURL = licenseInfo[2]
 
-  return `# ${data.title}
+  return `# ${data.title} ![${data.license}](${licenseBadge})
 
-  ![${data.license}](${licenseBadge})
-  
   ## Description
   
   \n${data.description}\n

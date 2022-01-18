@@ -1,11 +1,9 @@
-# Readme Generator
+# Project 1 ![](#)
 
-  ![BSD](https://img.shields.io/pypi/l/Django)
-  
   ## Description
   
   
-This is a Readme generator for node.js using inquirer
+It is a project that works
 
   
   ## Table of Contents
@@ -21,48 +19,47 @@ This is a Readme generator for node.js using inquirer
   ## Installation
   
   
-- Download files - Be sure to have the packages install - Run
+none
 
   
   ## Usage
   
   
-Enter node index.js on the command line in the folder where files are downloaded and answer the questions
+none
 
   
   
-![Readme Generator webpage working as expected](assets/images/screenshot.png)
+![Project 1 webpage working as expected](assets/images/screenshot.png)
   
   ## License
   
   
-Copyright (c) 2022, Cesar San All rights reserved.
-Licensed under the BSD license. 
+
 
   
   
-[License](./BSD_license.txt)
+[License](#)
 
   
   ## How to Contribute
   
   
-Modify the generateMarkdown.js to add sections or style to the Readme
+none
 
   
   ## Tests
   
   
-For testing just follow the Installation Instructions and Usage Information
+none
 
   
   ## Questions
   
   If you have any question feel free to check my Github
   
-[Github](https://github.com/csancheze)
+[Github](none)
 
   or send me and email
   
-<cesanchezesc@gmail.com>
+<none>
 
