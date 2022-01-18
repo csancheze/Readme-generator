@@ -1,4 +1,4 @@
-# Readme Generator![BSD](https://img.shields.io/pypi/l/Django)
+# Readme Generator ![BSD](https://img.shields.io/pypi/l/Django)
 
   
   
