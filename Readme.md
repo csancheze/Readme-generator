@@ -27,7 +27,7 @@ This is a Readme generator for node.js using inquirer. It was based on the code 
   ## Usage
   
   
-Enter node index.js on the command line in the folder where files are downloaded and answer the questions
+Enter node index.js on the command line in the folder where files are downloaded and answer the questions. Be sure to change the assets/images/screenshot.png to match your project.
 
   
   
