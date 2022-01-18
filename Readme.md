@@ -53,7 +53,9 @@ Modify the generateMarkdown.js to add sections or style to the Readme
   ## Tests
   
   
-For testing just follow the Installation Instructions and Usage Information
+Check out the following video to see the program working:
+
+[Video of Readme generator](https://drive.google.com/file/d/1RmVnFgGwE-wzIMOz_c8d0Tm1nC1PkksT/view?usp=sharing)
 
   
   ## Questions
