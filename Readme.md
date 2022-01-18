@@ -5,7 +5,7 @@
   ## Description
   
   
-This is a Readme generator for node.js using inquirer
+This is a Readme generator for node.js using inquirer. It was based on the code given but there were a few modifications. One function was enough to get the license information to be sent to the markdown generator. A module for choosing the corresponding text to create the matching license file was created and the added to the index.js via module.exports. At last some fixes were made to some bugs and to match the criteria.
 
   
   ## Table of Contents
