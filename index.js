@@ -26,7 +26,7 @@ const questions = () => {
         type: 'list',
         name: 'license',
         message: 'What license does your project have?',
-        choices: ['MIT', 'BSD', 'Apache', ""],
+        choices: ["", 'MIT', 'BSD', 'Apache'],
       },
       {
         type: 'input',
@@ -56,7 +56,7 @@ const questions = () => {
       {
         type: 'input',
         name: 'github',
-        message: 'Enter your GitHub URL',
+        message: 'Enter your GitHub Username',
       },
       {
         type: 'input',

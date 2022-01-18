@@ -91,8 +91,9 @@ function generateMarkdown(data) {
   
   ## Questions
   
-  If you have any question feel free to check my Github
-  \n[Github](${data.github})\n
+  If you have any question feel free to check my Github 
+  \nUsername:${data.github}
+  \n[Github](https://github.com/${data.github})\n
   or send me and email
   \n<${data.email}>\n
 `;
