@@ -1,7 +1,5 @@
-# ${data.title}
+# ${data.title} ![${data.license}](${licenseBadge})
 
-  ![${data.license}](${licenseBadge})
-  
   ## Description
   
   \n${data.description}\n
@@ -45,4 +43,4 @@
   If you have any question feel free to check my Github
   \n[Github](${data.github})\n
   or send me and email
-  \n[Email](${data.email})\n
+  \n<${data.email}>\n

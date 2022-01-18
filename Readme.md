@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 # Project 1 ![](#)
 
+=======
+# Readme Generator  ![BSD](https://img.shields.io/pypi/l/Django)
+
+
+  
+>>>>>>> 22dcf85a018ba47539ca156f9c83547857cf3df9
   ## Description
   
   
