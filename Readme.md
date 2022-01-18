@@ -1,6 +1,6 @@
-# Readme Generator
+# Readme Generator  ![BSD](https://img.shields.io/pypi/l/Django)
 
-  ![BSD](https://img.shields.io/pypi/l/Django)
+
   
   ## Description
   
